@@ -189,7 +189,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:
   Call the `displayArray` function, passing the array and its size as arguments.
 ### Step 8:
-  Define the function `displayArray(int *arr, int size)` to print the array elements:  
+  Define the function `displayArray(int *arr, int size)` to print the array elements: 
   - Loop through the array using either pointer arithmetic (`*(arr + i)`) or array indexing (`arr[i]`).  
   - Print each element.
 ### Step 9:
